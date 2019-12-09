@@ -1,5 +1,5 @@
 # Products recognition using SIFT
-## Implemented in OpenCV.
+## Implemented in OpenCV
 
 All the steps and explanations are included in the final notebook.
 
