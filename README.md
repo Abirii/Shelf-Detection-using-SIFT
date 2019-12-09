@@ -1,1 +1,1 @@
-
+# Products recognition with OpenCV
