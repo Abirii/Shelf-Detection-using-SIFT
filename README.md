@@ -7,3 +7,4 @@
 
 ![download (3)](https://user-images.githubusercontent.com/40145410/70458913-c8e6d900-1abb-11ea-834a-45a50afda717.png)
 
+All the steps and explanations are included in the final notebook.
